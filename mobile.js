@@ -13,21 +13,13 @@ footer {
     width: 100px;
     padding: 10px;
 }
-
-.vertical menu{
-    flex-direction: column;
-    align-items: unset;
-}
-
 header nav{
     flex-direction: column;
     align-items: unset;
 }
-
 .blog-news ul{
     flex-direction: column;
 }
-
 .blog-news ul .news {
     list-style: none outside;
     display: flex;
@@ -36,11 +28,9 @@ header nav{
     box-shadow: 0 0.3rem 1rem 0.3rem rgba(0, 0, 0, 0.3);
     margin-top: 10px;
 }
-
 .motivation ul{
     flex-direction: column;
 }
-
 .img img {
     max-width: 100%;
     height: auto;
